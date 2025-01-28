@@ -3,7 +3,7 @@
 ### Desenvolvedor PHP | Entusiasta de Automação com Shell Script
 
 ## 🛠️ Tecnologias que utilizo
-- **Back-end:** PHP (Laravel, CodeIgniter)  
+- **Back-end:** PHP
 - **Front-end:** HTML, CSS, JavaScript  
 - **Banco de Dados:** MySQL
 - **Automação:** Shell Script
