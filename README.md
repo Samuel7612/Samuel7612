@@ -5,7 +5,7 @@
 ## 🛠️ Tecnologias que Uso  
 - **Back-end:** PHP (Laravel, CodeIgniter)  
 - **Front-end:** HTML, CSS, JavaScript  
-- **Banco de Dados:** MySQL, PostgreSQL  
+- **Banco de Dados:** MySQL
 - **Automação:** Shell Script
 
 <div style="display: inline_block"><br>
