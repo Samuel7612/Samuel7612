@@ -16,9 +16,9 @@
       <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
   
-  ##
- ## 📫 Como Me Encontrar  
+  ## 
 <div>
+       ## 📫 Como Me Encontrar 
       <a href="https://t.me/samuelnet" target="_blank">
             <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
       </a>
