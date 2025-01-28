@@ -6,7 +6,7 @@
 - **Back-end:** PHP (Laravel, CodeIgniter)  
 - **Front-end:** HTML, CSS, JavaScript  
 - **Banco de Dados:** MySQL, PostgreSQL  
-- **Automação:** Shell Script (básico)
+- **Automação:** Shell Script
 
 <div style="display: inline_block"><br>
       <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
