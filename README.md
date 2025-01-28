@@ -40,7 +40,7 @@
 
 <br>
 
-Eaí, já conhece os meus ***sites de VPN?***, se ainda não, dê uma olhada, aproveita e cria um teste gratuito e navegue com mais segurança e anônimato pela web [VPNConect](https://vpnconect.com.br) e [SSHConect](https://sshconect.com.br)
+Eaí, já conhece os meus ***sites de VPN?*** se ainda não, dê uma olhada, aproveita e cria um teste gratuito e navegue com mais segurança e anônimato pela web [VPNConect](https://vpnconect.com.br) e [SSHConect](https://sshconect.com.br)
 <!-- githube stats tema dark -->
 <!--
 <br>
