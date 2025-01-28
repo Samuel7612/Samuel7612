@@ -13,6 +13,7 @@
       <img align="center" alt="Html" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <img align="center" alt="Java script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
   
@@ -40,7 +41,7 @@
 
 <br>
 
-Eaí, já conhece os meus ***sites de VPN?*** se ainda não, dê uma olhada, aproveita e cria um teste gratuito e navegue com mais segurança e anônimato pela web [VPNConect](https://vpnconect.com.br) e [SSHConect](https://sshconect.com.br)
+Eaí, já conhece os meus ***sites de VPN?*** se ainda não, dê uma olhada, aproveita e cria um teste gratuito e navegue com mais segurança e anônimato pela web. <br/> [VPNConect](https://vpnconect.com.br) & [SSHConect](https://sshconect.com.br)
 <!-- githube stats tema dark -->
 <!--
 <br>
