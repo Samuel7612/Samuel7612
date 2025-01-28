@@ -2,7 +2,7 @@
 
 ### Desenvolvedor PHP | Entusiasta de Automação com Shell Script
 
-## 🛠️ Tecnologias que Uso  
+## 🛠️ Tecnologias que utilizo
 - **Back-end:** PHP (Laravel, CodeIgniter)  
 - **Front-end:** HTML, CSS, JavaScript  
 - **Banco de Dados:** MySQL
@@ -18,7 +18,7 @@
   
   ## 
 <div>
-       <h2> 📫 Como Me Encontrar</div>h2>
+       <h2> 📫 Como Me Encontrar</h2>
       <a href="https://t.me/samuelnet" target="_blank">
             <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
       </a>
